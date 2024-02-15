@@ -2,7 +2,7 @@
 
 ## Overview
 
-The objective of this task is to address data imbalance in classification models using the 'Healthcare For All' dataset. The dataset, named `learningSet.csv`, is utilized to predict the likelihood of donation (TargetB) and the donation amount (TargetD).
+The objective of this task is to address data imbalance in classification models using the 'Healthcare For All' dataset. The datasets, named `numerical.csv`, `categorical.csv` and `target.csv` are utilized to predict the likelihood of donation (TargetB) and the donation amount (TargetD).
 
 ## Context
 
